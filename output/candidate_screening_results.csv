@@ -1,0 +1,4 @@
+rank,resume_id,recommended_role,similarity_score,skill_score,experience_score,final_score,shortlist_status
+1,Sample_Resume_QA_Engineer.pdf,QA Engineer,91.37,100.0,100,95.68,Shortlisted
+2,Sample_Resume_Software_Engineer.pdf,Software Engineer,88.2,87.5,100,90.35,Shortlisted
+3,Sample_Resume_Data_Analyst.pdf,Data Analyst,76.43,100.0,100,88.22,Shortlisted
